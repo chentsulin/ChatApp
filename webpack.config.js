@@ -10,7 +10,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, 'dist'),
     filename: 'bundle.js',
-    publicPath: '/hw-reference/7-class-demo-todo/dist/'
+    publicPath: '/potsrevennil/ChatApp/dist/'
   },
   plugins: [
     new webpack.HotModuleReplacementPlugin(),

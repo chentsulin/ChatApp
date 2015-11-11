@@ -7,7 +7,7 @@
                     "react-transform": {
                         "transforms": [{
                             "transform": "react-transform-hmr",
-                            "import": ["react"],
+                            "imports": ["react"],
                             "locals": ["module"]
                         },{
                             "transform": "react-transform-catch-errors",
